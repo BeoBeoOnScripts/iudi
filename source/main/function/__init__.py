@@ -7,6 +7,7 @@ from source.main.controller.forum import *
 from source.main.controller.groups import *
 from source.main.controller.provinces import*
 from source.main.controller.postComments import *
+from source.main.controller.images import *
 from flask_jwt_extended import create_access_token, get_jwt_identity
 
 
